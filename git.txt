@@ -1,0 +1,5 @@
+git commands
+check whether the directory is required or not
+git init
+git add .
+git commit -m "comment"
