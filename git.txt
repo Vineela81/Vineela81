@@ -3,3 +3,5 @@ check whether the directory is required or not
 git init
 git add .
 git commit -m "comment"
+git remote add origin first link in github
+git push -u origin branch(master)
