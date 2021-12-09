@@ -5,3 +5,7 @@ git add .
 git commit -m "comment"
 git remote add origin first link in github
 git push -u origin branch(master)
+
+cloning:
+in remote repository copy the  url(code)
+in local repo git clone (paste the link)
