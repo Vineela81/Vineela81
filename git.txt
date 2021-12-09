@@ -22,3 +22,6 @@ git checkout name (to move to another branch)
 git checkout -b name (to create and move to another branch)
 git switch name(to move to another branch)
 git merge name (or merging)(first go to root branch and then merge)
+
+"git pull"
+git pull -u origin branch
