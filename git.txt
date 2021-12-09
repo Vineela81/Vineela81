@@ -9,3 +9,8 @@ git push -u origin branch(master)
 cloning:
 in remote repository copy the  url(code)
 in local repo git clone (paste the link)
+
+"stages of git"
+1 modified (after initialiasation the files are un tracked(u) one it is local repo then any changes are made to any existing files then files are modified (m) ) 
+2 staged (after modifing the files should be added to staging area)
+3 committed (then commit the changes into local repo(.git directory)then push the changes into remote repo)
